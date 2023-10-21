@@ -56,6 +56,7 @@
 .logo {
     display: flex;
     cursor: pointer;
+    background-image: url("https://freelance.habr.com/projects/179970");
 }
 
 .head-box_text {
