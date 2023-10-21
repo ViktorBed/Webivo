@@ -9,7 +9,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/img/cover.png);
+    background-image: url(img/cover.png);
     width: 100%;
 }
 
@@ -474,23 +474,23 @@ h3 {
 }
 
 .img1 {
-    background-image: url("/img/16_Andrew-Porter-Logo.svg");
+    background-image: url(/img/16_Andrew-Porter-Logo.svg);
 }
 
 .img2 {
-    background-image: url("/img/17_Jalen-Rose-Leadership-Academy-Logo.svg");
+    background-image: url(/img/17_Jalen-Rose-Leadership-Academy-Logo.svg);
 }
 
 .img3 {
-    background-image: url("/img/Wal.svg");
+    background-image: url(/img/Wal.svg);
 }
 
 .img4 {
-    background-image: url("/img/Ideal.svg");
+    background-image: url(/img/Ideal.svg);
 }
 
 .img5 {
-    background-image: url("/img/PhalenLeadership.svg");
+    background-image: url(/img/PhalenLeadership.svg);
 }
 
 .section_hr {
