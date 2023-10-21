@@ -433,14 +433,20 @@ h3 {
     padding: 234px 8px 0 30px;
 }
 
-.oval_one {
-    background-image: url(img/oval1.svg);
-    filter: drop-shadow(20px 25px 43px rgba(0, 0, 0, 0.18));
-    width: 242px;
-    height: 203px;
-    background-repeat: no-repeat;
+.oval1 {
+
     padding: 30px 122px;
     margin: 33px -1px;
+}
+.oval_photo{
+    background-image: url(img/oval1.svg);
+    filter: drop-shadow(20px 25px 43px rgba(0, 0, 0, 0.18));
+    background-repeat: no-repeat;
+    width: 242px;
+    height: 203px;
+    position: absolute;
+    right: 412px;
+    margin-top: -15px;
 }
 
 .oval_text {
