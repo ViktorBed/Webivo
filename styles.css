@@ -9,7 +9,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(img/cover.png);
+    background-image: url(./img/cover.png);
     width: 100%;
 }
 
@@ -228,7 +228,7 @@ h3 {
 .footer {
     width: 100%;
     height: 920px;
-    background-image: url(/img/footer.png);
+    background-image: url(./img/footer.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -433,7 +433,7 @@ h3 {
 }
 
 .oval1 {
-    background-image: url(/img/oval1.svg);
+    background-image: url(./img/oval1.svg);
     filter: drop-shadow(20px 25px 43px rgba(0, 0, 0, 0.18));
     width: 242px;
     height: 203px;
@@ -474,23 +474,23 @@ h3 {
 }
 
 .img1 {
-    background-image: url(/img/16_Andrew-Porter-Logo.svg);
+    background-image: url(./img/16_Andrew-Porter-Logo.svg);
 }
 
 .img2 {
-    background-image: url(/img/17_Jalen-Rose-Leadership-Academy-Logo.svg);
+    background-image: url(./img/17_Jalen-Rose-Leadership-Academy-Logo.svg);
 }
 
 .img3 {
-    background-image: url(/img/Wal.svg);
+    background-image: url(./img/Wal.svg);
 }
 
 .img4 {
-    background-image: url(/img/Ideal.svg);
+    background-image: url(./img/Ideal.svg);
 }
 
 .img5 {
-    background-image: url(/img/PhalenLeadership.svg);
+    background-image: url(./img/PhalenLeadership.svg);
 }
 
 .section_hr {
@@ -509,7 +509,7 @@ h3 {
 }
 
 .bitmap1 {
-    background-image: url(/img/Image.svg);
+    background-image: url(./img/Image.svg);
     width: 978px;
     height: 550px;
     background-repeat: no-repeat;
@@ -552,7 +552,7 @@ h3 {
 }
 
 .bitmap2 {
-    background-image: url(/img/Bitmap.svg);
+    background-image: url(./img/Bitmap.svg);
     background-repeat: no-repeat;
     max-width: 1020px;
     height: 549px;
@@ -575,7 +575,7 @@ h3 {
 }
 
 .bitmap3 {
-    background-image: url(/img/Bitmap1.svg);
+    background-image: url(./img/Bitmap1.svg);
     width: 978px;
     height: 550px;
     background-repeat: no-repeat;
@@ -608,7 +608,7 @@ h3 {
 }
 
 .oval2 {
-    background-image: url(/img/oval2.svg);
+    background-image: url(./img/oval2.svg);
     filter: drop-shadow(20px 25px 43px rgba(0, 0, 0, 0.18));
     width: 223px;
     height: 90px;
@@ -644,7 +644,7 @@ h3 {
 }
 
 .oval3 {
-    background-image: url(/img/oval3.svg);
+    background-image: url(./img/oval3.svg);
     filter: drop-shadow(20px 25px 43px rgba(0, 0, 0, 0.18));
     width: 223px;
     height: 90px;
@@ -668,7 +668,7 @@ h3 {
 }
 
 .oval4 {
-    background-image: url(/img/oval4.svg);
+    background-image: url(./img/oval4.svg);
     filter: drop-shadow(20px 25px 43px rgba(0, 0, 0, 0.18));
     width: 223px;
     height: 90px;
